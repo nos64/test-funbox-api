@@ -1,5 +1,5 @@
 # funbox-test-api
-## Deploy: [server]([https://methed-burger-api.onrender.com](https://funbox-test-api.onrender.com))
+## Deploy: [server](https://funbox-test-api.onrender.com)
 
 Доступные методы:
 
